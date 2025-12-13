@@ -1,3 +1,8 @@
+project path: C:\Users\Asus\pstat
+
+conda activate pstat13 
+
+
 รีโหลดหน้าต่าง (Reload Window) วิธีนี้จะช่วยเคลียร์ค่าที่ค้างอยู่ในโปรแกรม VS Code ครับ
 
 กดปุ่ม Ctrl + Shift + P (บน Windows) หรือ Cmd + Shift + P (บน Mac)
