@@ -1,0 +1,368 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.12.28)  15 JAN 2026 12:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**notebook.tex
+(distributions.ipynb
+! Interruption.
+<to be read again> 
+                   \immediate 
+l.1 
+    {
+? 
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2  "
+      cells": [
+? 
+Missing character: There is no " in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4    "cell_
+             type": "markdown",
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! You can't use `macro parameter character #' in math mode.
+l.10     "#
+            <font color=\"#DE1509\">Distributions</font>\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 10.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+0.
+(C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+LaTeX Warning: Command \" invalid in math mode on input line 10.
+
+LaTeX Font Info:    Trying to load font information for +lmr on input line 10.
+LaTeX Font Info:    No file lmr.fd. on input line 10.
+LaTeX Font Info:    Trying to load font information for +cmr on input line 10.
+LaTeX Font Info:    No file cmr.fd. on input line 10.
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 10.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 10.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.10     "# <font color=\"#
+                           DE1509\">Distributions</font>\n",
+? 
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 10.
+
+! You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> \@use@text@encoding \@curr@enc ##
+                                            
+l.10     "# <font color=\"#
+                           DE1509\">Distributions</font>\n",
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.10     "# <font color=\"#
+                           DE1509\">Distributions</font>\n",
+? 
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.10     "# <font color=\"#
+                           DE1509\">Distributions</font>\n",
+? 
+
+LaTeX Font Warning: Font shape `/lmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 10.
+
+! You can't use `macro parameter character #' in math mode.
+<argument> \@use@text@encoding \@curr@enc ##
+                                            
+l.10     "# <font color=\"#
+                           DE1509\">Distributions</font>\n",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 10.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.10     "# <font color=\"#DE1509\">
+                                    Distributions</font>\n",
+? 
+! Undefined control sequence.
+l.10 ...t color=\"#DE1509\">Distributions</font>\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.11 ... on a specific value or set of values.  \n
+                                                  ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 12.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.12     "*\"A
+               distribution is simply a collection of data, or scores, on a ...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 12.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.12 ...then they can be presented graphically.\"*
+                                                    \n",
+? 
+! Undefined control sequence.
+l.12 ... they can be presented graphically.\"*  \n
+                                                  ",
+? 
+! Undefined control sequence.
+<recently read> \n 
+                   
+l.24     "\\\n
+              ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 25.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 25.
+
+! You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> \@use@text@encoding \@curr@enc ##
+                                            
+l.25     "<font color=\"#
+                         029DA3\">**Probability Distribution**</font>"
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.25     "<font color=\"#
+                         029DA3\">**Probability Distribution**</font>"
+? 
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.25     "<font color=\"#
+                         029DA3\">**Probability Distribution**</font>"
+? 
+! You can't use `macro parameter character #' in math mode.
+<argument> \@use@text@encoding \@curr@enc ##
+                                            
+l.25     "<font color=\"#
+                         029DA3\">**Probability Distribution**</font>"
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 25.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.25     "<font color=\"#029DA3\">
+                                  **Probability Distribution**</font>"
+? 
+! Undefined control sequence.
+l.35     "- *Discrete Distributions*  \n
+                                        ",
+? 
+! Undefined control sequence.
+l.36 ...at least one of the values has to occur.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.37     "\n
+            ",
+? 
+! Undefined control sequence.
+l.38     "- *Continuous Distributions*  \n
+                                          ",
+? 
+! Undefined control sequence.
+l.49 ...n drug successfully medical treatment.  \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.50     "  \n
+              ",
+? 
+! Undefined control sequence.
+<recently read> \n 
+                   
+l.62     "\\\n
+              ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 63.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 63.
+
+! You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> \@use@text@encoding \@curr@enc ##
+                                            
+l.63     "<font color=\"#
+                         029DA3\">**Probability Density Function (PDF)**</fo...
+
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.63     "<font color=\"#
+                         029DA3\">**Probability Density Function (PDF)**</fo...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.63     "<font color=\"#
+                         029DA3\">**Probability Density Function (PDF)**</fo...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+<argument> \@use@text@encoding \@curr@enc ##
+                                            
+l.63     "<font color=\"#
+                         029DA3\">**Probability Density Function (PDF)**</fo...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 63.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.63     "<font color=\"#029DA3\">
+                                  **Probability Density Function (PDF)**</fo...
+
+? 
+! Undefined control sequence.
+l.73 ...or the Gaussian (normal) distribution.  \n
+                                                  ",
+? 
+! Undefined control sequence.
+l.74     "\n
+            ",
+? 
+! Undefined control sequence.
+l.75 ... a probability mass function, or **PMF**\n
+                                                  ",
+? 
+! Undefined control sequence.
+<recently read> \n 
+                   
+l.98     "\\\n
+              ",
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 99.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 99.
+
+! You can't use `macro parameter character #' in restricted horizontal mode.
+<argument> \@use@text@encoding \@curr@enc ##
+                                            
+l.99     "<font color=\"#
+                         029DA3\">**Cumulative Density function (CDF)**</font>"
+
+? 
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.99     "<font color=\"#
+                         029DA3\">**Cumulative Density function (CDF)**</font>"
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \edef 
+l.99     "<font color=\"#
+                         029DA3\">**Cumulative Density function (CDF)**</font>"
+
+? 
+! You can't use `macro parameter character #' in math mode.
+<argument> \@use@text@encoding \@curr@enc ##
+                                            
+l.99     "<font color=\"#
+                         029DA3\">**Cumulative Density function (CDF)**</font>"
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 99.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.99     "<font color=\"#029DA3\">
+                                  **Cumulative Density function (CDF)**</font>"
+
+? 
+! Misplaced alignment tab character &.
+l.130     "&
+            nbsp;   \n",
+? 
+! Undefined control sequence.
+l.130     "&nbsp;   \n
+                      ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.131     "#
+            ### <font color=\"#127C02\">*Gaussian / Normal Distribution*</fo...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.131     "##
+             ## <font color=\"#127C02\">*Gaussian / Normal Distribution*</fo...
+
+? ＀＀＀＀exit
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? x
+ 
+Here is how much of TeX's memory you used:
+ 76 strings out of 409617
+ 1329 string characters out of 5778275
+ 2284191 words of memory out of 5000000
+ 22246 multiletter control sequences out of 15000+600000
+ 561012 words of font info for 37 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 24i,7n,32p,51471b,128s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
